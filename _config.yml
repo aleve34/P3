@@ -1,6 +1,8 @@
 # Site settings
+
 title: "Nesrine Resume"
 description: "A resume template for Nesrine and GitHub Pages sites."
+
 
 # Build settings
 markdown: kramdown
@@ -10,13 +12,15 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Skatetocat"
-resume_title:                   "Professional Skate"
-resume_contact_email:           "services@github.com"
-resume_contact_telephone:       "7654-321"
-resume_contact_address:         "San Francisco, CA"
-resume_header_contact_info: "San Francisco, CA | 7654-321 | services@github.com"
-resume_header_intro: "<p>Professional skater who works on mobile applications when not dropping in</p>"
+
+resume_name:                    "Nesrine"
+resume_title:                   "nesrine"
+resume_contact_email:           "nesrine@nesrine.com"
+resume_contact_telephone:       "0777777777"
+resume_contact_address:         "cergy"
+resume_header_contact_info: "cergy | 0777777777 | nesrine@nesrine.com"
+resume_header_intro: "<p>nesrine nesrine nesrine nesrine nesrine nesrine nesrine nesrine nesrine.</p>"
+
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
